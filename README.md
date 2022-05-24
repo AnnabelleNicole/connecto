@@ -4,6 +4,10 @@ L’entreprise Connecto, qui offre des produits et services de maison intelligen
 
 Le travail a été réalisé en groupe. Nous étions 4 étudiants. 
 
+Laravel Framework 9.8.1
+
+ORM éloquent | Architecture MVC
+
 J'ai réalisé la partie gestions des incidents qui comprend les fichiers: admin/IncidentController, le modèle Incident, les vues: admin/incidents. 
 
 Le modèle FrequentIssue, FrequentIssueController, certaines routes, les seeders.
