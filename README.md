@@ -1,4 +1,4 @@
-Projet étudiante pour l'entrprise fictive Connecto:
+Projet étudiante pour l'entreprise fictive Connecto:
 
 L’entreprise Connecto, qui offre des produits et services de maison intelligente (domotique), expérimente parfois des difficultés de maintiens des services en ligne. Pour adresser une certaine insatisfaction de sa clientèle, elle cherche à faire développer une plateforme en ligne pour gérer l’état de ses services ainsi que les communications avec sa clientèle entourant les pannes et les difficultés rencontrées. 
 
